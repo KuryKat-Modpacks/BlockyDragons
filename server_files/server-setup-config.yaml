@@ -59,6 +59,8 @@ install:
     formatSpecific:
         # optional paramenter used for curse to specify a whole project to ignore (mostly if it is client side only)
         ignoreProject:
+            - 854213 # Colorful Hearts
+            - 441114 # Neko's Enchanted Books
             - 305373 # Reload Audio Driver
             - 360673 # Custom Window Title
             - 431430 # FlickerFix
