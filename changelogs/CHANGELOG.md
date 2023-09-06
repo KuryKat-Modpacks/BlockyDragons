@@ -1,3 +1,13 @@
+### Blocky Dragons v1.2.1
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.2.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.2.1.md)
+
+### 🐛 Fixed Bugs
+
+-   Fixed server pack issues by adding the missing client-only mods to the ignored projects list.
+
+---
+
 ### Blocky Dragons v1.2.0
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.2.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.2.0.md)
