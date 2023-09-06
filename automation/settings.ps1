@@ -85,7 +85,7 @@ $FOLDERS_TO_INCLUDE_IN_CLIENT_FILES = @(
 	"dragon-survival",
 	"kubejs",
     "local",
-	"schematics",
+	# "schematics",
     "shaderpacks"
 )
 
@@ -192,6 +192,10 @@ $CONFIGS_TO_REMOVE_FROM_CLIENT_FILES = @(
 )
 
 $FOLDERS_TO_REMOVE_FROM_CLIENT_FILES = @(
+    "kubejs/config/probejs.json",
+    "kubejs/probe",
+    "kubejs/jsconfig.json",
+    "kubejs/README.txt",
     "local/ftbutilities",
     "local/ftbchunks/data",
     "local/ftbultimine",
