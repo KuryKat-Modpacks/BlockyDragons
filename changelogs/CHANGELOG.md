@@ -1,3 +1,17 @@
+### Blocky Dragons v1.3.1
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.3.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.3.1.md)
+
+### 🎁 New Mods Added
+
+-   [Complementary Reimagined](https://www.curseforge.com/minecraft/shaders/complementary-reimagined) (by [EminGTR](https://www.curseforge.com/members/EminGTR/projects))
+
+### 🐛 Fixed Bugs
+
+-   Re-added the Shader Pack that was accidentally removed on the v1.3.0
+
+---
+
 ### Blocky Dragons v1.3.0
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.3.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.3.0.md)
