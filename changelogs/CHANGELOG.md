@@ -1,6 +1,6 @@
 ### Blocky Dragons v1.1.1
 
-🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_1.1.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_1.1.1.md)
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.1.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.1.1.md)
 
 ### 🌟 Improvements
 
@@ -10,7 +10,7 @@
 
 ### Blocky Dragons v1.1.0
 
-🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_1.1.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_1.1.0.md)
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.1.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.1.0.md)
 
 
 ### 🎁 New Mods Added
@@ -46,7 +46,7 @@
 
 ### Blocky Dragons v1.0.0
 
-🚀 Forge-1.19.2-43.2.23 | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_1.0.0.md)
+🚀 Forge-1.19.2-43.2.23 | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.0.0.md)
 
 
 **Initial release!**
