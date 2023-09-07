@@ -1,6 +1,6 @@
 ### Blocky Dragons v1.3.2
 
-🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.3.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.3.1.md)
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.3.2.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.3.2.md)
 
 ### 🐛 Fixed Bugs
 
