@@ -27,15 +27,15 @@
     "entity_health": true,
     "energy_storage": true,
     "entity_armor.max_for_render": 40,
-    "enchantment_power": true,
     "breaking_progress": true,
+    "enchantment_power": true,
     "tnt_stability": true,
     "villager_profession": true,
     "mob_breeding": true,
     "entity_health.icons_per_line": 10,
     "item_frame": true,
-    "crop_progress": true,
     "fluid.detailed": false,
+    "crop_progress": true,
     "total_enchantment_power": true,
     "potion_effects": true,
     "command_block": true,
@@ -46,11 +46,11 @@
     "mob_spawner": true,
     "redstone": true
   },
-  "entangled": {
-    "entangled_block_component": true
-  },
   "tombstone": {
     "graves": true
+  },
+  "entangled": {
+    "entangled_block_component": true
   },
   "immersiveengineering": {
     "hemp": true,
@@ -89,13 +89,18 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
   "autoleveling": {
     "level": true
   },
   "jadecolonies": {
     "colony.citizens": true,
-    "colony.pack": true,
     "colony.visitor_cost": true,
+    "colony.pack": true,
     "colony.colonist": true,
     "domum.materials": true
   },
