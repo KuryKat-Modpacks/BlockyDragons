@@ -37,7 +37,7 @@ ao:0
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/Axolotl-Totem+[1.19].zip","file/Better_Enderdragon.zip","file/Pinnacle 2.6 (1.16-1.19).zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/SpawnEgg3D-1.20.zip","create_central_kitchen:create_styled","file/Create Style Modded Compats v16.zip","create:legacy_copper","packmenu","file/Medieval_Style_Lootr.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/Axolotl-Totem+[1.19].zip","file/Better_Enderdragon.zip","file/Pinnacle 2.6 (1.16-1.19).zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/SpawnEgg3D-1.20.zip","create_central_kitchen:create_styled","file/Create Style Modded Compats v16.zip","create:legacy_copper","file/Medieval_Style_Lootr.zip"]
 incompatibleResourcePacks:["file/SpawnEgg3D-1.20.zip","packmenu","file/Medieval_Style_Lootr.zip"]
 lastServer:
 lang:en_us
@@ -48,7 +48,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -77,7 +77,7 @@ showAutosaveIndicator:true
 allowServerListing:true
 chatPreview:1
 onlyShowSecureChat:false
-soundCategory_master:0.50413907
+soundCategory_master:0.07615894
 soundCategory_music:0.50352114
 soundCategory_record:0.50176054
 soundCategory_weather:0.5070422
