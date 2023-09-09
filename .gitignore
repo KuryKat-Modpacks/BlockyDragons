@@ -43,6 +43,7 @@ screenshots/
 **/*.jar.meta
 
 # Utilities
+options.txt
 !automation/**
 !config/defaultoptions/options.txt
 !packmenu/*.zip
@@ -84,7 +85,6 @@ ModpackUploader.bat
 new.json
 old.json
 ops.json
-options.txt
 patchouli_data.json
 realms_persistence.json
 reauth.toml
