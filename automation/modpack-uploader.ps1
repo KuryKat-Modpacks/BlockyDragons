@@ -78,6 +78,16 @@ function Update-BetterCompatibilityCheckerVersion {
     
 }
 
+function Update-ITLTVersion {
+    $configPath = "$INSTANCE_ROOT/config/itlt-client.toml"
+
+    # Replace anything that matches semver of the type v1.0.0 with $MODPACK_VERSION
+    $contents = [System.IO.File]::ReadAllText($configPath) -replace "v\d+\.\d+\.\d+", $MODPACK_VERSION
+
+    [System.IO.File]::WriteAllText($configPath, $contents)
+    
+}
+
 function New-ClientFiles {
     if ($ENABLE_CLIENT_FILE_MODULE) {
         Write-Host 
@@ -423,6 +433,7 @@ switch ($mode) {
         Validate-SecretsFile
 
         Update-BetterCompatibilityCheckerVersion
+        Update-ITLTVersion
         
         New-ClientFiles
         Push-ClientFiles
