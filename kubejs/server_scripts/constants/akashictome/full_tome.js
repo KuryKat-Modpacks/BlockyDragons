@@ -82,7 +82,7 @@ const fullAkashicTome = Item.of('akashictome:tome', {
                 Inventory: {
                     Items: [],
                     Size: 54
-                },
+                }
             }
         },
         solcarrot: {
