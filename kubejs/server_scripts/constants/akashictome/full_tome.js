@@ -77,7 +77,17 @@ const fullAkashicTome = Item.of('akashictome:tome', {
         },
         silentgear: {
             Count: 1,
-            id: 'silentgear:guide_book'
+            id: 'silentgear:blueprint_book',
+            tag: {
+                Inventory: {
+                    Items: [],
+                    Size: 54
+                },
+            }
+        },
+        solcarrot: {
+            Count: 1,
+            id: 'solcarrot:food_book'
         },
         tetra: {
             Count: 1,
