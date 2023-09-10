@@ -83,14 +83,14 @@ const fullAkashicTome = Item.of('akashictome:tome', {
             Count: 1,
             id: 'tetra:holo',
             tag: {
-                "holo/core": "holo/core",
-                "holo/core_material": "frame/dim",
-                "holo/frame": "holo/frame",
-                "holo/frame_material": "core/ancient",
-                "holo/repo": "holo/repo",
-                "holo/repo_material": "repo/default",
-                "holo/scanner": "holo/scanner",
-                "holo/scanner_material": "scanner/default"
+                'holo/core': 'holo/core',
+                'holo/core_material': 'frame/dim',
+                'holo/frame': 'holo/frame',
+                'holo/frame_material': 'core/ancient',
+                'holo/repo': 'holo/repo',
+                'holo/repo_material': 'repo/default',
+                'holo/scanner': 'holo/scanner',
+                'holo/scanner_material': 'scanner/default'
             }
         }
     }
