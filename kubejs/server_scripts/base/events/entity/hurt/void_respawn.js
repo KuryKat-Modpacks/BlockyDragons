@@ -14,7 +14,7 @@ EntityEvents.hurt((event) => {
         watchDimensions.some((substring) => currentDimension.includes(substring))
     ) {
         let username = player.getUsername();
-        let spawn = player.getRespawnPosition() || level.getSharedSpawnPos()
+        let spawn = player.getRespawnPosition() || level.getSharedSpawnPos();
         let spawnDimension = player.getRespawnDimension().location();
 
         console.log(`${username} has fallen into the void in ${currentDimension}!`);
@@ -25,10 +25,7 @@ EntityEvents.hurt((event) => {
         server.runCommandSilent(`execute in ${spawnDimension} run tp ${username} ${spawn.x} ${spawn.y} ${spawn.z}`);
 
         // Cost is in hunger. Clear food related buffs and apply massive hunger briefly.
-        let effects = [
-            'farmersdelight:comfort',
-            'farmersdelight:nourishment'
-        ];
+        let effects = ['farmersdelight:comfort', 'farmersdelight:nourishment'];
         effects.forEach((effect) => {
             server.runCommandSilent(`effect clear ${username} ${effect}`);
         });
