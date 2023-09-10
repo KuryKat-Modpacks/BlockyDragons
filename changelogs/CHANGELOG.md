@@ -1,3 +1,38 @@
+### Blocky Dragons v1.5.0
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.0.md)
+
+### 🎁 New Mods Added
+
+-   [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
+-   [Charging Gadgets](https://www.curseforge.com/minecraft/mc-mods/charging-gadgets) (by [Direwolf20](https://www.curseforge.com/members/Direwolf20/projects))
+-   [Dank Storage](https://www.curseforge.com/minecraft/mc-mods/dank-storage) (by [tfarecnim](https://www.curseforge.com/members/tfarecnim/projects))
+-   [FlickerFix](https://www.curseforge.com/minecraft/mc-mods/flickerfix) (by [MutantGumdrop](https://www.curseforge.com/members/MutantGumdrop/projects))
+-   [Heartstone](https://www.curseforge.com/minecraft/mc-mods/heartstone) (by [plantspookable](https://www.curseforge.com/members/plantspookable/projects))
+-   [Inventory Profiles Next](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next) (by [mirinimi](https://www.curseforge.com/members/mirinimi/projects))
+-   [libIPN](https://www.curseforge.com/minecraft/mc-mods/libipn) (by [mirinimi](https://www.curseforge.com/members/mirinimi/projects))
+-   [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets) (by [Direwolf20](https://www.curseforge.com/members/Direwolf20/projects))
+-   [Overflowing Bars [Forge & Fabric]](https://www.curseforge.com/minecraft/mc-mods/overflowing-bars) (by [Fuzs](https://www.curseforge.com/members/Fuzs/projects))
+-   [Paintings ++](https://www.curseforge.com/minecraft/mc-mods/paintings) (by [AbsolemJackdaw](https://www.curseforge.com/members/AbsolemJackdaw/projects))
+-   [Personality](https://www.curseforge.com/minecraft/mc-mods/personality) (by [TeamAbnormals](https://www.curseforge.com/members/TeamAbnormals/projects))
+-   [Savage & Ravage](https://www.curseforge.com/minecraft/mc-mods/savage-and-ravage) (by [TeamAbnormals](https://www.curseforge.com/members/TeamAbnormals/projects))
+-   [Spit it out](https://www.curseforge.com/minecraft/mc-mods/spit-it-out) (by [Mrbysco](https://www.curseforge.com/members/Mrbysco/projects))
+-   [Time in a bottle Curio Support](https://www.curseforge.com/minecraft/mc-mods/time-in-a-bottle-curio-support) (by [MangoRage](https://www.curseforge.com/members/MangoRage/projects))
+-   [Transparent](https://www.curseforge.com/minecraft/mc-mods/transparent) (by [Trikzon](https://www.curseforge.com/members/Trikzon/projects))
+
+### 🌟 Improvements
+
+-   Modpack will now show the version on the Window Title
+-   Tweak MineColonies Server defaultconfig to make it more viable to use (new worlds only)
+-   Tweak Configs and Default Keybinds - CHECK YOUR KEYBINDS WHEN U LOAD THE GAME
+-   Added more Utility and Performance Modules and Mods to help the game run smoothly
+
+### 🗑️ Removed Mods
+
+-   [Colorful Hearts](https://www.curseforge.com/minecraft/mc-mods/colorful-hearts) (by [Terrails](https://www.curseforge.com/members/Terrails/projects))
+
+---
+
 ### Blocky Dragons v1.4.2
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.4.2.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.4.2.md)
