@@ -1,3 +1,13 @@
+### Blocky Dragons v1.4.2
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.4.2.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.4.2.md)
+
+### 🌟 Improvements
+
+-   Disabled SilentGems' Ore Generation to prevent potential conflicts with AllTheOres' Ore Generation
+
+---
+
 ### Blocky Dragons v1.4.1
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.4.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.4.1.md)
