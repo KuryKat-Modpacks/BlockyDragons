@@ -1,3 +1,19 @@
+### Blocky Dragons v1.4.1
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.4.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.4.1.md)
+
+### 🎁 New Mods Added
+
+-   [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition) (by [lordcazsius](https://www.curseforge.com/members/lordcazsius/projects))
+
+### 🌟 Improvements
+
+-   Disabled Immersive Engineering's Ore Generation to prevent potential conflicts with AllTheOres' Ore Generation
+-   Update Akashic Tome to include Spice of Life "Food Book"
+-   Tweak spice of life to make it even spicier~
+
+---
+
 ### Blocky Dragons v1.4.0
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.4.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.4.0.md)
@@ -69,8 +85,8 @@
 -   Disabled the "Experimental Settings" popup
 -   Tweaked configs for smoother gameplay
 -   Trigger a reload after a full load to ensure complete and proper loading of all elements
--   Disabled Create's Zinc Ore Generation to prevent potential conflicts with AllTheOres' Zinc Ore Generation
--   Disabled Occultism's Silver Ore Generation to prevent potential conflicts with AllTheOres' Silver Ore Generation
+-   Disabled Create's Ore Generation to prevent potential conflicts with AllTheOres' Ore Generation
+-   Disabled Occultism's Ore Generation to prevent potential conflicts with AllTheOres' Ore Generation
 -   Implemented a script to automatically teleport players to their respawn point if they fall into the void
 
 ### 🐛 Fixed Bugs
