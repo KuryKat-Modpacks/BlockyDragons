@@ -1,3 +1,38 @@
+### Blocky Dragons v1.5.1
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.1.md)
+
+**⚠️ IMPORTANT MOD CHANGELOG ⚠️**
+
+Mighty Mail - 1.0.14
+
+Breaking update. Changes were made to how mailboxes are saved/loaded. You will most likely need to replace your mailboxes in the world for them to display again in the Post Box.
+
+
+### 🎁 New Mods Added
+
+-   [Create Guns](https://www.curseforge.com/minecraft/texture-packs/create-guns) (by [EndRage](https://www.curseforge.com/members/EndRage/projects))
+-   [Create Guns: Scorched ](https://www.curseforge.com/minecraft/texture-packs/create-guns-a-scorched-addon) (by [Ribs498](https://www.curseforge.com/members/Ribs498/projects))
+-   [Lopy's Create Style Construction Wands](https://www.curseforge.com/minecraft/texture-packs/create-style-construction-wands) (by [Luna](https://www.curseforge.com/members/Luna/projects))
+-   [Lopy's Create Style Sophisticated Backpacks](https://www.curseforge.com/minecraft/texture-packs/create-sophisticated-backpacks) (by [Luna](https://www.curseforge.com/members/Luna/projects))
+
+### 🌟 Improvements
+
+-   Updated Default Options to enable the new resourcepacks by default.
+-   Tweaked Inventory Profiles Next configuration to disable some features by default.
+-   Adjusted Inventory Profiles Next configuration to make the sorting behavior similar to Inventory Sorter.
+-   Disabled Mouse Tweaks Item Scrolling and enabled Inventory Profiles Next Item Scrolling.
+-   Unbound most keybinds to allow for more specific user-choice customization.
+-   Increased the number of Curio Slots for all kinds, allowing players to wear more accessories. (new worlds only)
+-   Expanded the Dragon's "allowedVehicles" list to include SmallShips' vessels, granting dragons the ability to ride them. (new worlds only)
+-   Disabled EMI's Batch Renderer to fix visual bugs with Shaders in GUIs. Some performance may be sacrificed, but it shouldn't be noticeable. Please report any issues.
+
+### 🗑️ Removed Mods
+
+-   [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) (by [cpw](https://www.curseforge.com/members/cpw/projects))
+
+---
+
 ### Blocky Dragons v1.5.0
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.0.md)
