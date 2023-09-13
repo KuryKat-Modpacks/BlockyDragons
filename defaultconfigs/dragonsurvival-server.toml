@@ -572,7 +572,7 @@
 	#Should dragons be limited by which entities they can ride
 	limitedRiding = true
 	#List of rideable entities. Format: modid:id
-	allowedVehicles = ["minecraft:boat", "littlelogistics:seater_barge", "minecraft:minecart", "create:seat", "create:contraption", "create:gantry_contraption", "create:stationary_contraption", "hexerei:broom", "botania:player_mover", "quark:quark_boat"]
+	allowedVehicles = ["minecraft:boat", "littlelogistics:seater_barge", "minecraft:minecart", "create:seat", "create:contraption", "create:gantry_contraption", "create:stationary_contraption", "hexerei:broom", "botania:player_mover", "quark:quark_boat", "smallships:galley", "smallships:cog", "smallships:brigg"]
 	#Set to false to toggle off all dragon penalties.
 	penalties = true
 
