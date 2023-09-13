@@ -121,3 +121,5 @@ NewWorldBiomeIdFixer.json
 emi.json
 /modernfix/
 /config/emi.css
+!/config/inventoryprofiles.json
+!/config/inventoryprofilesnext/
