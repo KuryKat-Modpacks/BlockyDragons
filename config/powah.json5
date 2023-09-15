@@ -22,25 +22,31 @@
 		},
 		// List of coolant fluids used in the Reactor and the Thermo Generator.
 		"coolant_fluids": {
-			"minecraft:water": 1
+			"minecraft:water": 1,
+			"create:honey": 2,
+			"create:chocolate": 5
 		},
 		// List of heat source blocks used under Thermo Generator.
 		"heat_blocks": {
-			"powah:blazing_crystal_block": 2800,
-			"minecraft:lava": 1000,
-			"minecraft:magma_block": 800,
 			"minecraft:fire": 500,
 			"minecraft:campfire": 600,
 			"minecraft:soul_campfire": 700,
-			"alltheores:uranium_block": 1200
+			"minecraft:magma_block": 800,
+			"minecraft:lava": 1000,
+            "create:experience_block": 1100,
+			"alltheores:uranium_block": 1200,
+			"powah:niotic_crystal_block": 1500,
+			"powah:spirited_crystal_block": 1600,
+			"powah:blazing_crystal_block": 2800,
+			"powah:nitro_crystal_block": 5000
 		},
 		// Energy produced per fuel tick in the Furnator.
-		"energy_per_fuel_tick": 30,
-		"energizing_range": 4,
+		"energy_per_fuel_tick": 50,
+		"energizing_range": 6,
 		/* Multiplier to the required energy applied after an energizing recipe is read.
 		   Use this to adjust the cost of ALL energizing recipes.
 		*/
-		"energizing_energy_ratio": 1.0
+		"energizing_energy_ratio": 1.5
 	},
 	// Configuration of energy values for generators.
 	"generators": {
@@ -64,10 +70,10 @@
 				"nitro": 160000
 			},
 			"generation_rates": {
-				"starter": 20,
-				"basic": 80,
-				"hardened": 200,
-				"blazing": 800,
+				"starter": 40,
+				"basic": 100,
+				"hardened": 250,
+				"blazing": 1000,
 				"niotic": 2000,
 				"spirited": 8000,
 				"nitro": 40000
@@ -93,10 +99,10 @@
 				"nitro": 160000
 			},
 			"generation_rates": {
-				"starter": 20,
-				"basic": 80,
-				"hardened": 200,
-				"blazing": 800,
+				"starter": 40,
+				"basic": 100,
+				"hardened": 250,
+				"blazing": 1000,
 				"niotic": 2000,
 				"spirited": 8000,
 				"nitro": 40000
@@ -122,9 +128,9 @@
 				"nitro": 2000000
 			},
 			"generation_rates": {
-				"starter": 250,
-				"basic": 1000,
-				"hardened": 2500,
+				"starter": 500,
+				"basic": 1500,
+				"hardened": 3000,
 				"blazing": 10000,
 				"niotic": 25000,
 				"spirited": 100000,
@@ -151,10 +157,10 @@
 				"nitro": 160000
 			},
 			"generation_rates": {
-				"starter": 20,
-				"basic": 60,
-				"hardened": 100,
-				"blazing": 200,
+				"starter": 60,
+				"basic": 100,
+				"hardened": 200,
+				"blazing": 300,
 				"niotic": 400,
 				"spirited": 800,
 				"nitro": 2000
@@ -180,13 +186,13 @@
 				"nitro": 160000
 			},
 			"generation_rates": {
-				"starter": 20,
-				"basic": 60,
-				"hardened": 100,
-				"blazing": 200,
-				"niotic": 400,
-				"spirited": 800,
-				"nitro": 2000
+				"starter": 40,
+				"basic": 100,
+				"hardened": 150,
+				"blazing": 250,
+				"niotic": 500,
+				"spirited": 1000,
+				"nitro": 5000
 			}
 		}
 	},
@@ -305,7 +311,7 @@
 		},
 		"energizing_rods": {
 			"capacities": {
-				"starter": 10000,
+				"starter": 20000,
 				"basic": 40000,
 				"hardened": 100000,
 				"blazing": 400000,
@@ -314,9 +320,9 @@
 				"nitro": 20000000
 			},
 			"transfer_rates": {
-				"starter": 100,
-				"basic": 400,
-				"hardened": 1000,
+				"starter": 200,
+				"basic": 800,
+				"hardened": 2000,
 				"blazing": 4000,
 				"niotic": 10000,
 				"spirited": 40000,
