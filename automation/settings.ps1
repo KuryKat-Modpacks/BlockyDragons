@@ -82,7 +82,6 @@ $CLIENT_FILE_AUTHOR = "KuryKat"
 $FOLDERS_TO_INCLUDE_IN_CLIENT_FILES = @(
     "config",
 	"defaultconfigs",
-	"dragon-survival",
 	"kubejs",
     "local",
 	# "schematics",
