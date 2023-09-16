@@ -1,3 +1,5 @@
+//priority: 1001
+
 const fullAkashicTome = Item.of('akashictome:tome', {
     'akashictome:data': {
         alchemistry: {
