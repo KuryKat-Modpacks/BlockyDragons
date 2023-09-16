@@ -1,15 +1,15 @@
 
-[enchantments]
-
-	[enchantments.perpetual]
-		#ID of the item being used for getting the Perpetual Enchant [default: "minecraft:nether_star"]
-		enchantItem = "minecraft:nether_star"
-		#List of the mods you want to blacklist
-		#Example: 'perpetual'
-		#default: []
-		modBlacklist = []
-		#List of the item IDs you want to blacklist
-		#Example: 'minecraft:shield'
-		#default: []
-		itemBlacklist = []
+[blacklist]
+	#List of the mods you want to blacklist
+	#Example: ["perpetual", "botania"]
+	#default: []
+	mods = []
+	#List of the item IDs you want to blacklist
+	#Example: ["minecraft:shield", "minecraft:diamond_sword"]
+	#default: []
+	items = []
+	#List of the item tags you want to blacklist
+	#Example: ["forge:tools/shovel"]
+	#default: []
+	tags = []
 

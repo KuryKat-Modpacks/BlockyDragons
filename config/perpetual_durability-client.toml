@@ -1,0 +1,18 @@
+#Enable the recipe to show up in JEI
+#default: true
+enableJEIRecipe = true
+#Enable tagged items to have a tooltip
+#default: true
+enableTagTooltip = true
+#Enable animated tooltip
+#default: true
+enableColorfulTooltip = true
+
+[debug]
+	#Enable items showing their tags on the tooltip when holding CTRL
+	#default: true
+	enableDebugTags = false
+	#Enable items showing their NBT on the tooltip when holding ALT
+	#default: true
+	enableDebugNBT = false
+
