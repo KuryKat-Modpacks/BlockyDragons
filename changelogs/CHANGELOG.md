@@ -61,6 +61,8 @@
 
 -   [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation) (by [towdium](https://www.curseforge.com/members/towdium/projects))
 
+---
+
 ### Blocky Dragons v1.5.1
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.1.md)
