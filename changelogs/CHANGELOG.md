@@ -1,3 +1,13 @@
+### Blocky Dragons v1.5.4
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.4.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.4.md)
+
+### 🌟 Improvements
+
+-   Update Default Options to ensure that all keybinds are Unbound by default. Please Check your keybinds!
+
+---
+
 ### Blocky Dragons v1.5.3
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.3.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.3.md)
