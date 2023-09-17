@@ -1,3 +1,18 @@
+### Blocky Dragons v1.5.3
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.3.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.3.md)
+
+### 🎁 New Mods Added
+
+-   [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) (by [EwyBoy](https://www.curseforge.com/members/EwyBoy/projects))
+
+### 🌟 Improvements
+
+-   **Switched Release Channel back to RELEASE due to player concerned feedback**
+    -   Side Note: There were no known issues with using the ALPHA channel, but since some users shared their fears of world-corruption I decided to revert this change to ensure a more reassuring envinronment for the users. This does not revert the already updated Mods, it just means that NEW *Alpha* updates *might* not be included in **future** releases!
+
+---
+
 ### Blocky Dragons v1.5.2
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.2.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.2.md)
