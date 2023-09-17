@@ -331,6 +331,7 @@
   * [waystones-forge-1.19.2-11.4.1.jar](https://www.curseforge.com/minecraft/mc-mods/waystones/files/4635420) (by [BlayTheNinth](https://www.curseforge.com/members/BlayTheNinth/projects))
   * [DungeonsArise-1.19.2-2.1.56-beta.jar](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/files/4599706) (by [Aureljz](https://www.curseforge.com/members/Aureljz/projects))
   * [WitherSkeletonTweaks-1.19.2-8.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/wither-skeleton-tweaks/files/4631144) (by [Shadows_of_Fire](https://www.curseforge.com/members/Shadows_of_Fire/projects))
+  * [World Stripper-1.19.2-3.2.2.jar](https://www.curseforge.com/minecraft/mc-mods/world-stripper/files/3921630) (by [EwyBoy](https://www.curseforge.com/members/EwyBoy/projects))
   * [worldedit-mod-7.2.12.jar](https://www.curseforge.com/minecraft/mc-mods/worldedit/files/3922622) (by [sk89q](https://www.curseforge.com/members/sk89q/projects))
   * [xnet-1.19-5.1.4.jar](https://www.curseforge.com/minecraft/mc-mods/xnet/files/4462366) (by [McJty](https://www.curseforge.com/members/McJty/projects))
   * [yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar](https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus/files/3909789) (by [Sunekaer](https://www.curseforge.com/members/Sunekaer/projects))
