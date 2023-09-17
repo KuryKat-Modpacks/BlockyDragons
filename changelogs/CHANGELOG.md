@@ -1,3 +1,66 @@
+### Blocky Dragons v1.5.2
+
+🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.2.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.2.md)
+
+### ⚠️ Warning: High Risk Update
+
+-   Updated Mods and Switched Release Channel to ALPHA.
+    -   This update is VERY RISKY, so please [report any bugs](https://github.com/KuryKat-Modpacks/BlockyDragons/issues/).
+    -   **Don't forget to backup your world before updating.**
+    -   Here Be Dragons.
+
+### 🎁 New Mods Added
+
+-   [Abnormals Delight](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight) (by [TeamAbnormals](https://www.curseforge.com/members/TeamAbnormals/projects))
+-   [Corn Delight[Forge]](https://www.curseforge.com/minecraft/mc-mods/corn-delight) (by [sz0999312](https://www.curseforge.com/members/sz0999312/projects))
+-   [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights) (by [NCP_Bails](https://www.curseforge.com/members/NCP_Bails/projects))
+-   [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) (by [brnbrd](https://www.curseforge.com/members/brnbrd/projects))
+-   [Italian Delight (A Farmer's Delight Add-on)](https://www.curseforge.com/minecraft/mc-mods/italian-delights-add-on-for-farmers-delight) (by [PuurpZ](https://www.curseforge.com/members/PuurpZ/projects))
+-   [KubeJS Botania](https://www.curseforge.com/minecraft/mc-mods/kubejs-botania) (by [Amygdaloideae](https://www.curseforge.com/members/Amygdaloideae/projects))
+-   [KubeJS Botany Pots](https://www.curseforge.com/minecraft/mc-mods/kubejs-botany-pots) (by [BobVarioa](https://www.curseforge.com/members/BobVarioa/projects))
+-   [KubeJS Powah](https://www.curseforge.com/minecraft/mc-mods/kubejs-powah) (by [BobVarioa](https://www.curseforge.com/members/BobVarioa/projects))
+-   [LootJS: KubeJS Addon](https://www.curseforge.com/minecraft/mc-mods/lootjs) (by [Lytho](https://www.curseforge.com/members/Lytho/projects))
+-   [Mysterious Mountain Lib](https://www.curseforge.com/minecraft/mc-mods/mysterious-mountain-lib) (by [sz0999312](https://www.curseforge.com/members/sz0999312/projects))
+-   [Occultism KubeJS](https://www.curseforge.com/minecraft/mc-mods/occultism-kubejs) (by [kli_kli](https://www.curseforge.com/members/kli_kli/projects))
+-   [Ocean's Delight](https://www.curseforge.com/minecraft/mc-mods/oceans-delight) (by [scouter567](https://www.curseforge.com/members/scouter567/projects))
+-   [Pineapple Delight](https://www.curseforge.com/minecraft/mc-mods/pineapple-delight) (by [someoneice](https://www.curseforge.com/members/someoneice/projects))
+-   [ProbeJS](https://www.curseforge.com/minecraft/mc-mods/probejs) (by [Amygdaloideae](https://www.curseforge.com/members/Amygdaloideae/projects))
+-   [RS: Crafting Monitor in Grid](https://www.curseforge.com/minecraft/mc-mods/rs-crafting-monitor-in-grid) (by [지젤쟝다](https://www.curseforge.com/members/%EC%A7%80%EC%A0%A4%EC%9F%9D%EB%8B%A4/projects))
+-   [RSInfinityBooster](https://www.curseforge.com/minecraft/mc-mods/rsinfinitybooster) (by [hexeptiondev](https://www.curseforge.com/members/hexeptiondev/projects))
+
+### 🌟 Improvements
+
+-   Removed Dragon Customization to prevent conflicts with user customization.
+-   Significantly buffed Spice of Life, allowing players to reach 100 hearts when consuming all 507 different foods! This change only affects new worlds.
+    -   Tip: you can always apply this update, and any other "new world only" updates, to your already-existing world by moving the files in the "defaultconfigs" folder to your "serverconfig" folder at "instance-folder/saves/WorldName/serverconfig" or in your "server-root/world/serverconfig" folder if you playing on a Server.
+-   Inventory HUD+ will now display item counts for improved inventory management.
+-   Buffed Generators for increased power output. (Powah)
+-   Added a variety of new Coolant options for enhanced generator efficiency. (Powah)
+-   Increased Energizing Recipes' crafting cost by +50% for added challenge and balance. (Powah)
+-   Added Sophisticated Backpacks to the Carry On blacklist for smoother gameplay.
+-   Improved WorldGen KubeJS scripts for better world generation reliability and performance.
+-   Disallowed certain mobs, such as Mimics and Wardens, from being used in spawners.
+-   Reduced tooltip size by disabling duplications from multiple mods.
+-   Enhanced crafting options by allowing any kind of stone to be transformed into Otherstone.
+-   Enabled passive boiler heating for specific blocks, including campfires, magma blocks, and Powah crystal blocks.
+-   Enabled infinite supplies of chocolate, sugar, honey, and caramel on the Hose Pulley.
+-   Expanded fuel compatibility for the IE Drill to accept a wider range of fuel sources.
+-   Removed various fluids from the Water Tag
+-   Removed various fluids from the Lava Tag
+-   Added Kerosene to the Kerosene tag (XD)
+-   Enabled upright rendering for Buckets and Bottles on Create Belts.
+-   Implemented a crushing recipe for Crushed End Stone using Create Crushing Wheels.
+-   Disabled certain IPN (Inventory Profile Next) features by default based on player feedback.
+
+### 🐛 Fixed Bugs
+
+-   Resolved the issue with fluids not displaying proper names by fixing localization files (lang files).
+-   Downgraded "Iron Jetpacks" mod to resolve item loading issue.
+
+### 🗑️ Removed Mods
+
+-   [Just Enough Calculation](https://www.curseforge.com/minecraft/mc-mods/just-enough-calculation) (by [towdium](https://www.curseforge.com/members/towdium/projects))
+
 ### Blocky Dragons v1.5.1
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.1.md)
