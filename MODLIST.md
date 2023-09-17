@@ -210,7 +210,7 @@
   * [Medieval_Style_Lootr.zip](https://www.curseforge.com/minecraft/texture-packs/medieval-style-lootr/files/4557870) (by [BlackAuresArt](https://www.curseforge.com/members/BlackAuresArt/projects))
   * [memoryleakfix-forge-1.17+-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/memoryleakfix/files/4465268) (by [FX_PR0CESS](https://www.curseforge.com/members/FX_PR0CESS/projects))
   * [mighty_mail-forge-1.19.2-1.0.14.jar](https://www.curseforge.com/minecraft/mc-mods/mighty-mail/files/4750268) (by [MrCrayfish](https://www.curseforge.com/members/MrCrayfish/projects))
-  * [minecolonies-1.19.2-1.1.154-BETA.jar](https://www.curseforge.com/minecraft/mc-mods/minecolonies/files/4753794) (by [Raycoms](https://www.curseforge.com/members/Raycoms/projects))
+  * [minecolonies-1.19.2-1.1.158-BETA.jar](https://www.curseforge.com/minecraft/mc-mods/minecolonies/files/4755029) (by [Raycoms](https://www.curseforge.com/members/Raycoms/projects))
   * [mininggadgets-1.13.1.jar](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets/files/4733515) (by [Direwolf20](https://www.curseforge.com/members/Direwolf20/projects))
   * [dummmmmmy-1.19.2-1.7.1.jar](https://www.curseforge.com/minecraft/mc-mods/mmmmmmmmmmmm/files/4410143) (by [MehVahdJukaar](https://www.curseforge.com/members/MehVahdJukaar/projects))
   * [modernfix-forge-5.7.2+mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/4728399) (by [embeddedt](https://www.curseforge.com/members/embeddedt/projects))
