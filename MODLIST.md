@@ -19,7 +19,7 @@
   * [artifacts-1.19.2-5.0.4.jar](https://www.curseforge.com/minecraft/mc-mods/artifacts/files/4746980) (by [ochotonida](https://www.curseforge.com/members/ochotonida/projects))
   * [alltheores-2.0.2-1.19.2-43.1.3.jar](https://www.curseforge.com/minecraft/mc-mods/ato/files/4046926) (by [ATMTeam](https://www.curseforge.com/members/ATMTeam/projects))
   * [AttributeFix-Forge-1.19.2-17.2.7.jar](https://www.curseforge.com/minecraft/mc-mods/attributefix/files/4635476) (by [DarkhaxDev](https://www.curseforge.com/members/DarkhaxDev/projects))
-  * [AutoLeveling-1.19.2-1.17.jar](https://www.curseforge.com/minecraft/mc-mods/auto-leveling/files/4587935) (by [Daripher](https://www.curseforge.com/members/Daripher/projects))
+  * [AutoLeveling-1.19.2-1.18.jar](https://www.curseforge.com/minecraft/mc-mods/auto-leveling/files/4755254) (by [Daripher](https://www.curseforge.com/members/Daripher/projects))
   * [AutoRegLib-1.8.2-55.jar](https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/4100299) (by [Vazkii](https://www.curseforge.com/members/Vazkii/projects))
   * [Axolotl-Totem+[1.19].zip](https://www.curseforge.com/minecraft/texture-packs/axolotl-totem/files/3903943) (by [blur00bfff](https://www.curseforge.com/members/blur00bfff/projects))
   * [bwncr-forge-1.19.2-3.14.1.jar](https://www.curseforge.com/minecraft/mc-mods/bad-wither-no-cookie-reloaded/files/4090811) (by [Kreezxil](https://www.curseforge.com/members/Kreezxil/projects))
