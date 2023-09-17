@@ -1,5 +1,5 @@
-ServerEvents.recipes(event => {
-    const id_prefix = 'blocky_dragons:base/create/crushing/'
+ServerEvents.recipes((event) => {
+    const id_prefix = 'blocky_dragons:base/create/crushing/';
 
     let recipes = [
         {
@@ -12,7 +12,7 @@ ServerEvents.recipes(event => {
             processingTime: 120,
             id: `${id_prefix}crushed_end_stone`
         }
-    ]
+    ];
 
     recipes.forEach((recipe) => {
         recipe.type = 'create:crushing';
@@ -23,4 +23,4 @@ ServerEvents.recipes(event => {
         recipe.results = recipe.outputs;
         event.custom(recipe).id(recipe.id);
     });
-})
+});
