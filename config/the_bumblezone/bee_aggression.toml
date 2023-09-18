@@ -73,7 +73,7 @@
 		# faster dash attacks from bees.
 		#
 		#Range: > 1
-		speedBoostLevel = 2
+		speedBoostLevel = 3
 		# 
 		#-----------------------------------------------------
 		#
@@ -88,7 +88,7 @@
 		# If you set this to like 5 or something, bees may be invicible! Game over.
 		#
 		#Range: > 1
-		absorptionBoostLevel = 1
+		absorptionBoostLevel = 2
 		# 
 		#-----------------------------------------------------
 		#
@@ -96,5 +96,5 @@
 		# (5 or higher will instant kill you without armor).
 		#
 		#Range: > 1
-		strengthBoostLevel = 1
+		strengthBoostLevel = 2
 
