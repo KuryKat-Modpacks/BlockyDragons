@@ -9,9 +9,9 @@
 
 [tooltip]
 	#Show SGear Material tooltips on items that can be used as materials.
-	showMaterialTooltips = false
+	showMaterialTooltips = true
 	#Show tooltips on parts and items that can be used as parts.
-	showPartTooltips = false
+	showPartTooltips = true
 	#Tooltips are replaced with a simpler variant similar to vanilla and contains about as much information.
 	vanillaStyleTooltips = false
 	#Show tooltips on certain items (like blueprints) reminding the player of JEI functionality,
