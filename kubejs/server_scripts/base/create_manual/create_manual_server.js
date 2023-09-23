@@ -19,9 +19,9 @@ function get_page_type(ponder, player) {
 }
 
 function set_page_type(page_type) {
-    let current = JsonIO.read('kubejs/ponder.json')
+    let current = JsonIO.read('kubejs/create_manual/ponder.json')
     current["page_type"] = page_type
-    JsonIO.write('kubejs/ponder.json', current)
+    JsonIO.write('kubejs/create_manual/ponder.json', current)
 }
 
 let players_create_manual_right_click = []
@@ -29,7 +29,7 @@ let players_checking_closed = []
 
 function create_manual_right_click(event) {
 
-    if (event.player.mainHandItem == 'create:create_manual') {
+    if (event.player.mainHandItem == 'create:manual') {
         if (players_create_manual_right_click.includes(event.player.username)) {
             event.cancel()
             return;
@@ -40,9 +40,9 @@ function create_manual_right_click(event) {
         })
 
         let ray = event.player.rayTrace(8)
-        let ponder = JsonIO.read('kubejs/ponder.json')
+        let ponder = JsonIO.read('kubejs/create_manual/ponder.json')
         if (ponder == null) {
-            event.player.tell('The file "kubejs/ponder.json" does not exist on the server side, move it from the client to the server files so that create_manual works properly.')
+            event.player.tell('The file "kubejs/create_manual/ponder.json" does not exist on the server side, move it from the client to the server files so that create_manual works properly.')
             event.player.sendData('openPonderTagIndexScreen', {})
             event.cancel()
             return;
@@ -129,7 +129,8 @@ NetworkEvents.dataReceived('create_manual_change_screen', event => {
         screen = "PonderTagIndexScreen"
     }
     event.player.persistentData.create_manual_page_type = screen
-    event.server.runCommandSilent(`title ${event.player.username} actionbar "Now manual will open ${screen}!"`)
+    screen = screen === "PonderIndexScreen" ? "Catalog" : "Main Menu"
+    event.server.runCommandSilent(`title ${event.player.username} actionbar "The Create Manual now will open the ${screen} when right-clicked!"`)
 })
 
 NetworkEvents.dataReceived('check_client_every_tick', event => {
@@ -146,5 +147,5 @@ NetworkEvents.dataReceived('stop_checking_client_every_tick', event => {
 })
 
 ServerEvents.recipes(event => {
-    event.shapeless('create:create_manual', ['minecraft:book', 'create:andesite_alloy'])
+    event.shapeless('create:manual', ['minecraft:book', 'create:andesite_alloy'])
 })

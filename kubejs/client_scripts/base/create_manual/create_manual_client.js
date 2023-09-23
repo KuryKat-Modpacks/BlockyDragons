@@ -78,12 +78,12 @@ NetworkEvents.dataReceived('openPonderTagIndexScreen', event => {
 })
 
 ItemEvents.tooltip(tooltip => {
-    let myMessage = Text.yellow(`Right-click on an item from the Create mod to get help! Works up to 8 blocks!\nRight-click anywhere to open a page with all items.\nShift + Scroll to change screen mode!`)
-    tooltip.add('create:create_manual', [myMessage])
+    let myMessage = Text.yellow(`Right-click on an item from the Create mod to get help! Works up to 8 blocks!\n\nRight-click anywhere to open a page with all items.\n\nShift + Scroll to change screen mode!`)
+    tooltip.add('create:manual', [myMessage])
 })
 
 ClientEvents.loggedIn(event => {
-    let current = JsonIO.read('kubejs/ponder.json')
+    let current = JsonIO.read('kubejs/create_manual/ponder.json')
     let updated_ponder = String($PonderRegistry.ALL.keySet()).replace('[', '').replace(']', '').split(', ')
     if (current == null) {
         current = {}
@@ -92,11 +92,11 @@ ClientEvents.loggedIn(event => {
         current["page_type"] = "PonderTagIndexScreen"
     }
     current["ponder"] = updated_ponder
-    JsonIO.write('kubejs/ponder.json', current)
+    JsonIO.write('kubejs/create_manual/ponder.json', current)
 })
 
 ArchEvents.handleClient('ClientRawInputEvent.MouseScrolled', event => {
-    if (Client.player.mainHandItem == 'create:create_manual' &&
+    if (Client.player.mainHandItem == 'create:manual' &&
         (Client.player.isCrouching() || Client.isShiftDown())) { //isCrouching() doesn't work if player is flying.
         Client.player.sendData('create_manual_change_screen', {})
         event.setResult($EventResult.interruptFalse()) //Cancel event.
@@ -107,5 +107,5 @@ ArchEvents.handleClient('ClientRawInputEvent.MouseScrolled', event => {
 
 ClientEvents.highPriorityAssets(e => {
     e.addLang('create.ponder.tag.current_blocks', 'Current Blocks')
-    e.addLang('create.ponder.tag.current_blocks.description', 'The item that you clicked on has several Ponder pages:')
+    e.addLang('create.ponder.tag.current_blocks.description', 'The item that you clicked on has several Ponder pages')
 })

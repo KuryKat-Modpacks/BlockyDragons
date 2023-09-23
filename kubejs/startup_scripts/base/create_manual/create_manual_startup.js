@@ -6,5 +6,5 @@ if (Platform.isClientEnvironment()) {
 }
 
 StartupEvents.registry('item', event => {
-    event.create('create:create_manual')
+    event.create('create:manual').displayName("The Create Manual")
 })

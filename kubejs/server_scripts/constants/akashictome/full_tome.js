@@ -28,6 +28,10 @@ const fullAkashicTome = Item.of('akashictome:tome', {
             Count: 1,
             id: 'chemlib:periodic_table'
         },
+        create: {
+            Count: 1,
+            id: 'create:manual'
+        },
         cookingforblockheads: {
             Count: 1,
             id: 'cookingforblockheads:recipe_book'
