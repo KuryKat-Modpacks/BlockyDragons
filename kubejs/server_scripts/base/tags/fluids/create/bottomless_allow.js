@@ -1,3 +1,3 @@
 ServerEvents.tags('fluid', (event) => {
-    event.get('create:bottomless/allow').add([/chocolate/, /sugar/, /honey/, /caramel/]);
+    event.get('create:bottomless/allow').add([/cream/, /milk/, /chocolate/, /sugar/, /honey/, /caramel/]);
 });
