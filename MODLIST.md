@@ -1,4 +1,4 @@
-## blocky-dragons - v1.6.1
+## blocky-dragons - v1.6.2
 
   * [abnormals_delight-1.19.2-4.0.2.jar](https://www.curseforge.com/minecraft/mc-mods/abnormals-delight/files/4415502) (by [TeamAbnormals](https://www.curseforge.com/members/TeamAbnormals/projects))
   * [AdChimneys-1.19.2-9.1.13.0-build.0988.jar](https://www.curseforge.com/minecraft/mc-mods/advanced-chimneys/files/4746226) (by [EnderLanky](https://www.curseforge.com/members/EnderLanky/projects))
