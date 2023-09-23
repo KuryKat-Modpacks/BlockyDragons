@@ -1,3 +1,13 @@
+### Blocky Dragons v1.6.1
+
+🚀 Forge-1.19.2-43.3.0 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.6.1.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.6.1.md)
+
+### 🌟 Improvements
+
+-   Offset the NoChatReports Verified Icon to not overlap with the BetterCompatibilityChecker Icon
+
+---
+
 ### Blocky Dragons v1.6.0
 
 🚀 Forge-1.19.2-43.3.0 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.6.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.6.0.md)
