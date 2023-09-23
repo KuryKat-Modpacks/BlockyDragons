@@ -220,7 +220,6 @@
   * [modernfix-forge-5.7.2+mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/modernfix/files/4728399) (by [embeddedt](https://www.curseforge.com/members/embeddedt/projects))
   * [modonomicon-1.19.2-1.34.0.jar](https://www.curseforge.com/minecraft/mc-mods/modonomicon/files/4675974) (by [kli_kli](https://www.curseforge.com/members/kli_kli/projects))
   * [moreoverlays-1.21.9-mc1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/more-overlays-updated/files/4571753) (by [RiDGo8](https://www.curseforge.com/members/RiDGo8/projects))
-  * [mmt-UP0.3b-1.19.2-morematerials.jar](https://www.curseforge.com/minecraft/mc-mods/morematerials/files/4483226) (by [Luna](https://www.curseforge.com/members/Luna/projects))
   * [MouseTweaks-forge-mc1.19-2.23.jar](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/3871353) (by [YaLTeR](https://www.curseforge.com/members/YaLTeR/projects))
   * [cfm-7.0.0-pre35-1.19.2.jar](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/4374996) (by [MrCrayfish](https://www.curseforge.com/members/MrCrayfish/projects))
   * [cgm-forge-1.19.2-1.3.7.jar](https://www.curseforge.com/minecraft/mc-mods/mrcrayfishs-gun-mod/files/4718583) (by [MrCrayfish](https://www.curseforge.com/members/MrCrayfish/projects))
