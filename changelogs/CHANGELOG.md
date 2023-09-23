@@ -1,3 +1,44 @@
+### Blocky Dragons v1.6.0
+
+🚀 Forge-1.19.2-43.3.0 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.6.0.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.6.0.md)
+
+### 🎁 New Mods Added
+
+-   [Baubley Heart Canisters](https://www.curseforge.com/minecraft/mc-mods/baubley-heart-canisters) (by [traverse_joe](https://www.curseforge.com/members/traverse_joe/projects))
+-   [Create: Dreams & Desires](https://www.curseforge.com/minecraft/mc-mods/create-dreams-desires) (by [Luna](https://www.curseforge.com/members/Luna/projects))
+-   [End's Phantasm](https://www.curseforge.com/minecraft/mc-mods/phantasm) (by [Lyof429](https://www.curseforge.com/members/Lyof429/projects))
+-   [End's Phantasm: Purple and Violet Rework](https://www.curseforge.com/minecraft/texture-packs/ends-phantasm-purple-and-violet-rework) (by [Michail01011101](https://www.curseforge.com/members/Michail01011101/projects))
+-   [Hostile Mobs and Girls (HMaG)](https://www.curseforge.com/minecraft/mc-mods/hostile-mobs-and-girls) (by [Mechalopa](https://www.curseforge.com/members/Mechalopa/projects))
+-   [Just a Few Ohana](https://www.curseforge.com/minecraft/mc-mods/just-a-few-ohana) (by [Mechalopa](https://www.curseforge.com/members/Mechalopa/projects))
+-   [More Dragon Eggs](https://www.curseforge.com/minecraft/mc-mods/more-dragon-eggs) (by [Darkere](https://www.curseforge.com/members/Darkere/projects))
+-   [More Villagers](https://www.curseforge.com/minecraft/mc-mods/more-villagers) (by [SameDifferent](https://www.curseforge.com/members/SameDifferent/projects))
+-   [Nekoration](https://www.curseforge.com/minecraft/mc-mods/nekoration) (by [DevBobcorn2](https://www.curseforge.com/members/DevBobcorn2/projects))
+-   [Unusual End](https://www.curseforge.com/minecraft/mc-mods/unusual-end) (by [Sweetygamer](https://www.curseforge.com/members/Sweetygamer/projects))
+
+### 🌟 Improvements
+
+-   Updated Forge to version 43.3.0.
+-   Updated Default Options.
+-   Re-enabled SGear tooltips.
+-   Add The Create Manual
+-   Improve compatibility between Better Villages and Immersive Engineering
+-   Improve compatibility between Better Villages and More Villagers
+-   Update Akashic Tome to include The Create Manual (You need to craft a new Akashic Tome on already-existing worlds)
+-   Bees are now more formidable during the "Wrath of the Hive" effect.
+-   All types of "Cream" and "Milk" can now be bottomless supplies.
+-   Tweaked Spice of Life to include all new food items, now with a maximum of 540 different foods! (new worlds only)
+
+### 🐛 Fixed Bugs
+
+-   Disabled "More Overlays" JEI search feature to prevent conflicts with the built-in feature from "EMI" and reduce log spam.
+-   Disabled Tin Ore from "Create: Dreams & Desires" to prevent conflicts with "AllTheOres" Tin Ore.
+
+### 🗑️ Removed Mods
+
+-   [Ponder for KubeJS](https://www.curseforge.com/minecraft/mc-mods/ponder) (by [Lytho](https://www.curseforge.com/members/Lytho/projects))
+
+---
+
 ### Blocky Dragons v1.5.4
 
 🚀 Forge-1.19.2-43.2.23 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.5.4.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.5.4.md)
