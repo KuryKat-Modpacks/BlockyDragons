@@ -37,7 +37,7 @@ ao:0
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"false"
-resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/Axolotl-Totem+[1.19].zip","file/Better_Enderdragon.zip","file/Pinnacle 2.6 (1.16-1.19).zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/SpawnEgg3D-1.20.zip","create_central_kitchen:create_styled","file/Create Style Modded Compats v16.zip","create:legacy_copper","file/Medieval_Style_Lootr.zip","file/Create-Construction-Wands.zip","file/Lopy-Create-Sophisticated-Backpacks.zip","file/Create+Guns+1.19.zip","file/Create_Guns_Scorched_1.19.2-1.19.3.zip"]
+resourcePacks:["vanilla","mod_resources","Supplementaries Generated Pack","file/Axolotl-Totem+[1.19].zip","file/Better_Enderdragon.zip","file/Pinnacle 2.6 (1.16-1.19).zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/SpawnEgg3D-1.20.zip","create_central_kitchen:create_styled","file/Create Style Modded Compats v16.zip","create:legacy_copper","file/Medieval_Style_Lootr.zip","file/Create-Construction-Wands.zip","file/Lopy-Create-Sophisticated-Backpacks.zip","file/Create+Guns+1.19.zip","file/Create_Guns_Scorched_1.19.2-1.19.3.zip","file/End\u0027s+Phantasm(BETAv1.2.10.5)_Purple+and+violet+rework_v2.9.9.2.zip"]
 incompatibleResourcePacks:["file/SpawnEgg3D-1.20.zip","file/Medieval_Style_Lootr.zip"]
 lastServer:
 lang:en_us
