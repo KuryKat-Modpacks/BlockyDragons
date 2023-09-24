@@ -60,7 +60,6 @@ install:
         # optional paramenter used for curse to specify a whole project to ignore (mostly if it is client side only)
         ignoreProject:
             - 334098 # Let Sleeping Dogs Lie (Forge)
-            - 250603 # World Stripper
             - 532127 # Legendary Tooltips [Forge]
             - 854213 # Colorful Hearts
             - 441114 # Neko's Enchanted Books
