@@ -29,11 +29,11 @@ $MODPACK_NAME = "blocky-dragons"
 $CLIENT_NAME = "BlockyDragons"
 
 # Version Of The Modpack
-$MODPACK_VERSION = "v1.6.2"
+$MODPACK_VERSION = "v1.6.3"
 
 # Last Version Of The Modpack
 # Needed For Changelog Parsing
-$LAST_MODPACK_VERSION = "v1.6.1"
+$LAST_MODPACK_VERSION = "v1.6.2"
 
 # =====================================================================//
 #  CHANGELOG SETTINGS
