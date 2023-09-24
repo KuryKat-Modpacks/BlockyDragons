@@ -369,12 +369,13 @@ function New-GitHubRelease {
         $Headers = @{
             Authorization = 'Basic {0}' -f $Base64Token;
         };
-    
+
+	$PARSED_MODPACK_VERSION = $MODPACK_VERSION -replace "\.", ""
         $Body = @{
             tag_name         = $MODPACK_VERSION
             target_commitish = 'master'
             name             = $MODPACK_VERSION
-            body             = ''
+            body             = "### [**Human-Readable Changelog**](https://github.com/$GITHUB_NAME/$GITHUB_REPOSITORY/blob/master/changelogs/CHANGELOG.md#$MODPACK_NAME-$PARSED_MODPACK_VERSION)\n\n**Full Changelog**: https://github.com/$GITHUB_NAME/$GITHUB_REPOSITORY/compare/$LAST_MODPACK_VERSION...$MODPACK_VERSION"
             draft            = $false
             prerelease       = $false
         } | ConvertTo-Json
