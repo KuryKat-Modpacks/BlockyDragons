@@ -14,8 +14,8 @@
 
 ### 🗑️ Removed Mods
 
-  * [ProbeJS](https://www.curseforge.com/minecraft/mc-mods/probejs) (by [Amygdaloideae](https://www.curseforge.com/members/Amygdaloideae/projects))
-  * [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) (by [EwyBoy](https://www.curseforge.com/members/EwyBoy/projects))
+-   [ProbeJS](https://www.curseforge.com/minecraft/mc-mods/probejs) (by [Amygdaloideae](https://www.curseforge.com/members/Amygdaloideae/projects))
+-   [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) (by [EwyBoy](https://www.curseforge.com/members/EwyBoy/projects))
 
 ---
 
