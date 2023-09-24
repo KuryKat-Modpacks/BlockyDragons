@@ -10,7 +10,7 @@ const directories: string[] = [
 const prettiers: Promise<Deno.ProcessStatus>[] = [];
 directories.forEach(directory => {
     prettiers.push(Deno.run({
-        cmd: ['npx', '--yes', 'prettier', directory, '--loglevel=debug', '--write'],
+        cmd: ['npx', '--yes', 'prettier', directory, '--log-level=debug', '--write'],
     }).status());
 });
 
