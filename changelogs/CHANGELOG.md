@@ -1,3 +1,24 @@
+### Blocky Dragons v1.6.3
+
+🚀 Forge-1.19.2-43.3.0 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.6.3.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.6.3.md)
+
+### 🌟 Improvements
+
+-   Removed mods that are meant to be used in-dev-only 
+-   Tweak the Create Manual scripts for better User Experience
+
+### 🐛 Fixed Bugs
+
+-   Removed World Stripper from Server Files because of crashes on Dedicated Servers.
+-   Players not being able to join servers because of mismatched modlist
+
+### 🗑️ Removed Mods
+
+  * [ProbeJS](https://www.curseforge.com/minecraft/mc-mods/probejs) (by [Amygdaloideae](https://www.curseforge.com/members/Amygdaloideae/projects))
+  * [World Stripper](https://www.curseforge.com/minecraft/mc-mods/world-stripper) (by [EwyBoy](https://www.curseforge.com/members/EwyBoy/projects))
+
+---
+
 ### Blocky Dragons v1.6.2
 
 🚀 Forge-1.19.2-43.3.0 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.6.2.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.6.2.md)
@@ -40,7 +61,7 @@
 -   Updated Forge to version 43.3.0.
 -   Updated Default Options.
 -   Re-enabled SGear tooltips.
--   Add The Create Manual
+-   Add The Create Manual (Base Code by [KostromDan](https://legacy.curseforge.com/members/devaverin/projects) and item texture by [Bitslayn](https://www.curseforge.com/members/bitslayn/projects))
 -   Improve compatibility between Better Villages and Immersive Engineering
 -   Improve compatibility between Better Villages and More Villagers
 -   Update Akashic Tome to include The Create Manual (You need to craft a new Akashic Tome on already-existing worlds)
