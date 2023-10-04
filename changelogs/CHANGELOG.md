@@ -1,3 +1,23 @@
+### Blocky Dragons v1.6.4
+
+🚀 Forge-1.19.2-43.3.0 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.6.4.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.6.4.md)
+
+### 🎁 New Mods Added
+
+-   [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) (by [tterrag1098](https://www.curseforge.com/members/tterrag1098/projects))
+-   [Connectivity[Forge/Fabric]](https://www.curseforge.com/minecraft/mc-mods/connectivity) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
+-   [Cupboard](https://www.curseforge.com/minecraft/mc-mods/cupboard) (by [someaddon](https://www.curseforge.com/members/someaddon/projects))
+
+### 🌟 Improvements
+
+-   Improved textures by adding connected textures mod. (Glass blocks from Glassential will now connect nicely)
+
+### 🐛 Fixed Bugs
+
+-   Fixed a synchronization bug between the server and client. ("Ghost Blocks")
+
+---
+
 ### Blocky Dragons v1.6.3
 
 🚀 Forge-1.19.2-43.3.0 | [📜 Mod Updates](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/changelog_mods_v1.6.3.md) | [📋 Modlist](https://github.com/KuryKat/BlockyDragons/blob/master/changelogs/modlist_v1.6.3.md)
